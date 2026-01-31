@@ -1,2 +1,24 @@
 
 /* Your CSS Code here. */
+.container{
+    padding: 15px;
+    width: 50%;
+    border-radius: 10px;
+    background-color: blanchedalmond;
+    align-items: center;
+    display: inline-block;
+    margin-left: 20%;
+}
+h3{
+    color: chocolate;
+    display: inline-block;
+}
+span{
+    color: chocolate;
+    color: blue;
+    opacity: 0.7;
+    margin: 1px;
+}
+h4{
+    margin: 1px;
+}
